@@ -4,7 +4,7 @@ A package for the seaweed lab at the University of Otago Marine Science Departme
 
 ## Installation
 
-The version on Github is under development, but users who are keen to have a crack can install it from here using Hadley Wickham's `devtools` package.
+This version is under development and likely always will be. It is pretty unlikely that this package will every be published on CRAN. Therefore this package should be installed from GitHub using Hadley Wickham's `devtools` package.
 
 ````r  
 install.packages('devtools')
@@ -14,9 +14,7 @@ library(seaweedR)
 
 ## Contributing
 
-We welcome contributors of all skill levels!  If you would like to contribute to this project please [contact Daniel][dpcontact].  
-
-If you'd like to contribute, please read the devtools [style guide][hwsg] before spending too much time coding out a complex function for inclusion here.  
+If you would like to contribute to this project please [contact Daniel][dpcontact].  
 
 [dpcontact]: http://www.pritchard.co/contact
 [hwsg]: https://github.com/hadley/devtools/wiki/Style
