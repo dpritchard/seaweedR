@@ -14,7 +14,7 @@ beer_eshel_1985(ws)
   \item{ws }{The output from \code{\link{read_spectro}}, or something very much like it}
 }
 \details{
-Detials to follow!
+Details to follow!
 }
 
 \value{
