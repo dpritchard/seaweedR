@@ -1,0 +1,14 @@
+Package: seaweedR
+Type: Package
+Title: UoO Marine Science Seaweed (Hepburn) Lab
+Version: 0.1.0
+Date: 2016-09-07
+Author: Daniel Pritchard
+Maintainer: Daniel Pritchard <daniel@pritchard.co>
+Description: Functions for the seaweed lab-group at the Department of Marine Science at the University of Otago. Created primarily for Daniel's sanity. Not likely to be released on CRAN.
+Depends: R (>= 3.1.0)
+Imports: xml2, dplyr
+Suggests: testthat, ggplot2
+License: GPL-3
+
+

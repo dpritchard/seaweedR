@@ -1,0 +1,10 @@
+# Pigments
+export(read_spectro)
+export(ritchie_2008, beer_eshel_1985)
+
+
+
+
+# Imports
+import("xml2")
+import("dplyr")
