@@ -4,7 +4,7 @@ A package for the seaweed lab at the University of Otago Marine Science Departme
 
 ## Installation
 
-This version is under development and likely always will be. It is pretty unlikely that this package will every be published on CRAN. Therefore this package should be installed from GitHub using Hadley Wickham's `devtools` package.
+This version is under development and likely always will be. It is pretty unlikely that this package will ever be published on CRAN. Therefore this package should be installed from GitHub using Hadley Wickham's `devtools` package.
 
 ````r  
 install.packages('devtools')
